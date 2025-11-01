@@ -1,0 +1,1 @@
+This video contains dump-truck tracking and estimation of relative distance, velocity and aceleration and also estimating the amout of time-to-collision and enhanced time-to-collison. The final steps which are decision of the type of braking system and truck trajectory prediction will be added within next months.
